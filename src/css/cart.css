@@ -1,0 +1,15 @@
+h2{
+    margin-top: 100px;
+    margin-left: 480px;
+    color: white;
+}
+
+.emptyCart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100dvh;
+    margin: 0;
+    padding: 0;
+    color: white;   
+}

@@ -1,0 +1,25 @@
+.header {
+  background-color: #3C0000;
+  color: white;
+  padding: 20px;
+  position: fixed;  
+  top: 0;
+  width: 100%;
+  box-shadow: 0 4px 6px rgba(255, 0, 0, 0.11);
+}
+  
+.header nav {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+  
+.header nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.header nav .home {
+  font-size: 25px;
+}
